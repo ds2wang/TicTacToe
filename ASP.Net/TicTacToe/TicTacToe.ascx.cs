@@ -243,14 +243,6 @@ namespace TicTacToe
             r3c1.Text = ttt[2, 0].ToString();
             r3c2.Text = ttt[2, 1].ToString();
             r3c3.Text = ttt[2, 2].ToString();
-            /*
-           Console.Out.WriteLine("      Col 1 Col 2 Col 3");
-           Console.Out.WriteLine("Row 1:  " + ttt[0,0] + "  |  " + ttt[0,1] + "  |  " + ttt[0,2]);
-           Console.Out.WriteLine("      -----+-----+-----");
-           Console.Out.WriteLine("Row 2:  " + ttt[1,0] + "  |  " + ttt[1,1] + "  |  " + ttt[1,2]);
-           Console.Out.WriteLine("      -----+-----+-----");
-           Console.Out.WriteLine("Row 3:  " + ttt[2,0] + "  |  " + ttt[2,1] + "  |  " + ttt[2,2]);
-           Console.Out.WriteLine();*/
         }
 
 
